@@ -1,4 +1,6 @@
-# angular-workout
+# angular-workout Application
+
+#Preview Link on StackBlitz:[https://angular-workout.stackblitz.io]
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
